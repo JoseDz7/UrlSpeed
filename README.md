@@ -21,8 +21,28 @@
 # UrlSpeed
 ![Image text](https://github.com/JoseDz7/UrlSpeed/blob/main/img/Screenshot_2022-02-26_16_33_30.png)
 
+## Instalacion :
 
+~~~
+https://github.com/JoseDz7/UrlSpeed
+~~~
 
+* `apt update && apt upgrade -y`
+
+* `git clone https://github.com/JoseDz7/UrlSpeed`
+
+* `python3 -m pip install pyshorteners
+
+* `cd UrlSpeed`
+
+* `chmod 775 UrlSpeed`
+
+* `python UrlSpeed`
+
+---
+###### `:) HOLA WAPA QUE HACES EN MI GITHUB!!!! ` 
+###### `By: José Díaz` 🇲🇽🇲🇽
+---
 
 
 
