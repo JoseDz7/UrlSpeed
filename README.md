@@ -31,7 +31,7 @@ https://github.com/JoseDz7/UrlSpeed
 
 * `git clone https://github.com/JoseDz7/UrlSpeed`
 
-* `python3 -m pip install pyshorteners
+* `python3 -m pip install pyshorteners`
 
 * `cd UrlSpeed`
 
