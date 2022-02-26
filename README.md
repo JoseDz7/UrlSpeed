@@ -5,7 +5,6 @@
 ![version]
 ![Tested]
 ![autor]
-![autor2]
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com)
 
 <details>
@@ -27,5 +26,5 @@
 
 <!-- MarkDown Links & Images -->
 [version]: https://img.shields.io/badge/Versi%C3%B3n-BETA%3A%20V.1.0-green
-[tested]: https://img.shields.io/badge/Probado-Kali%20Linux%20%7C%20Userland%20%7C%20Termux-blue
+[tested]: https://img.shields.io/badge/Probado-Kali%20Linux%20%7C%20Nethunter%20%7C%20Termux-blue
 [autor]: https://img.shields.io/badge/Author-%40Jose_Diaz-red
