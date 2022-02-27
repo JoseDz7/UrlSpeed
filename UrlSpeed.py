@@ -32,4 +32,5 @@ def short():
     print("\n")
     print(f"{verde}    [ :D ] >>> Su nueva url es")
     print(f"{verde}    [ >> ] >>> {resultado}")
+    print("")
 short()
